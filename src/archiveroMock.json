@@ -1,194 +1,96 @@
 {
     "Turquesa":{
         "participante": "Turquesa",
-        "ubicacion": "Illapel, provincia del Choapa, IV Región.",
+        "ubicacion": {
+                "Region": "IV",
+                "Comuna": "Illapel, provincia ",
+                "Provincia": "del Choapa" 
+            },
         "id": 0,
         "mainImg": "https://www.thetrevorproject.org/wp-content/uploads/2021/11/TTP_YouthPortrait_YellowBackdrop_Elijah.jpg",
         "categoria": {
-            "familia":{
-                "imgObjeto1": "link",
-                "videoObjeto1":"link",
-                "imgObjeto2": "link",
-                "videoObjeto2":"link",
-                "imgObjeto3": "link",
-                "videoObjeto3":"link",
-                "imgObjeto4": "link",
-                "videoObjeto4":"link",
-                "imgObjeto5": "link",
-                "videoObjeto5":"link",
-                "video":"link",
+            "Familia":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
             },
-            "amor":{
-                "imgObjeto1": "link",
-                "videoObjeto1":"link",
-                "imgObjeto2": "link",
-                "videoObjeto2":"link",
-                "imgObjeto3": "link",
-                "videoObjeto3":"link",
-                "imgObjeto4": "link",
-                "videoObjeto4":"link",
-                "imgObjeto5": "link",
-                "videoObjeto5":"link",
-                "video":"link",
+            "Amor":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
             },
-            "cuerpo":{
-                "imgObjeto1": "link",
-                "videoObjeto1":"link",
-                "imgObjeto2": "link",
-                "videoObjeto2":"link",
-                "imgObjeto3": "link",
-                "videoObjeto3":"link",
-                "imgObjeto4": "link",
-                "videoObjeto4":"link",
-                "imgObjeto5": "link",
-                "videoObjeto5":"link",
-                "video":"link",
+            "Cuerpo":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
             },
-            "miedo":{
-                "imgObjeto1": "link",
-                "videoObjeto1":"link",
-                "imgObjeto2": "link",
-                "videoObjeto2":"link",
-                "imgObjeto3": "link",
-                "videoObjeto3":"link",
-                "imgObjeto4": "link",
-                "videoObjeto4":"link",
-                "imgObjeto5": "link",
-                "videoObjeto5":"link",
-                "video":"link",
+            "Miedo":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
             },
-            "actosentido":{
-                "imgObjeto1": "link",
-                "videoObjeto1":"link",
-                "imgObjeto2": "link",
-                "videoObjeto2":"link",
-                "imgObjeto3": "link",
-                "videoObjeto3":"link",
-                "imgObjeto4": "link",
-                "videoObjeto4":"link",
-                "imgObjeto5": "link",
-                "videoObjeto5":"link",
-                "video":"link",
+            "Actosentido":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
             },
-            "libertad":{
-                "imgObjeto1": "link",
-                "videoObjeto1":"link",
-                "imgObjeto2": "link",
-                "videoObjeto2":"link",
-                "imgObjeto3": "link",
-                "videoObjeto3":"link",
-                "imgObjeto4": "link",
-                "videoObjeto4":"link",
-                "imgObjeto5": "link",
-                "videoObjeto5":"link",
-                "video":"link",
+            "Libertad":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
                 "cita1":"Abcde fghi jkl mn op qr",
                 "cita2":"Abcde fghi jkl mn op qr"
             }
         }
     },
     "participante": "Katherine",
-        "ubicacion": "Quillota, V Región.",
+    "ubicacion": {
+        "Region": "V",
+        "Comuna": "Quillota",
+        "Provincia": "" 
+    },
         "id": 1,
         "mainImg": "https://www.thetrevorproject.org/wp-content/uploads/2021/11/TTP_YouthPortrait_YellowBackdrop_Elijah.jpg",
-        "familia":{
-            "imgObjeto1": "link",
-            "videoObjeto1":"link",
-            "imgObjeto2": "link",
-            "videoObjeto2":"link",
-            "imgObjeto3": "link",
-            "videoObjeto3":"link",
-            "imgObjeto4": "link",
-            "videoObjeto4":"link",
-            "imgObjeto5": "link",
-            "videoObjeto5":"link",
-            "video":"link",
-            "cita1":"Abcde fghi jkl mn op qr",
-            "cita2":"Abcde fghi jkl mn op qr"
-        },
-        "amor":{
-            "imgObjeto1": "link",
-            "videoObjeto1":"link",
-            "imgObjeto2": "link",
-            "videoObjeto2":"link",
-            "imgObjeto3": "link",
-            "videoObjeto3":"link",
-            "imgObjeto4": "link",
-            "videoObjeto4":"link",
-            "imgObjeto5": "link",
-            "videoObjeto5":"link",
-            "video":"link",
-            "cita1":"Abcde fghi jkl mn op qr",
-            "cita2":"Abcde fghi jkl mn op qr"
-        },
-        "cuerpo":{
-            "imgObjeto1": "link",
-            "videoObjeto1":"link",
-            "imgObjeto2": "link",
-            "videoObjeto2":"link",
-            "imgObjeto3": "link",
-            "videoObjeto3":"link",
-            "imgObjeto4": "link",
-            "videoObjeto4":"link",
-            "imgObjeto5": "link",
-            "videoObjeto5":"link",
-            "video":"link",
-            "cita1":"Abcde fghi jkl mn op qr",
-            "cita2":"Abcde fghi jkl mn op qr"
-        },
-        "miedo":{
-            "imgObjeto1": "link",
-            "videoObjeto1":"link",
-            "imgObjeto2": "link",
-            "videoObjeto2":"link",
-            "imgObjeto3": "link",
-            "videoObjeto3":"link",
-            "imgObjeto4": "link",
-            "videoObjeto4":"link",
-            "imgObjeto5": "link",
-            "videoObjeto5":"link",
-            "video":"link",
-            "cita1":"Abcde fghi jkl mn op qr",
-            "cita2":"Abcde fghi jkl mn op qr"
-        },
-        "actosentido":{
-            "imgObjeto1": "link",
-            "videoObjeto1":"link",
-            "imgObjeto2": "link",
-            "videoObjeto2":"link",
-            "imgObjeto3": "link",
-            "videoObjeto3":"link",
-            "imgObjeto4": "link",
-            "videoObjeto4":"link",
-            "imgObjeto5": "link",
-            "videoObjeto5":"link",
-            "video":"link",
-            "cita1":"Abcde fghi jkl mn op qr",
-            "cita2":"Abcde fghi jkl mn op qr"
-        },
-        "libertad":{
-            "imgObjeto1": "link",
-            "videoObjeto1":"link",
-            "imgObjeto2": "link",
-            "videoObjeto2":"link",
-            "imgObjeto3": "link",
-            "videoObjeto3":"link",
-            "imgObjeto4": "link",
-            "videoObjeto4":"link",
-            "imgObjeto5": "link",
-            "videoObjeto5":"link",
-            "video":"link",
-            "cita1":"Abcde fghi jkl mn op qr",
-            "cita2":"Abcde fghi jkl mn op qr"
+        "categoria": {
+            "familia":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
+                "cita1":"Abcde fghi jkl mn op qr",
+                "cita2":"Abcde fghi jkl mn op qr"
+            },
+            "amor":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
+                "cita1":"Abcde fghi jkl mn op qr",
+                "cita2":"Abcde fghi jkl mn op qr"
+            },
+            "cuerpo":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
+                "cita1":"Abcde fghi jkl mn op qr",
+                "cita2":"Abcde fghi jkl mn op qr"
+            },
+            "miedo":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
+                "cita1":"Abcde fghi jkl mn op qr",
+                "cita2":"Abcde fghi jkl mn op qr"
+            },
+            "actosentido":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
+                "cita1":"Abcde fghi jkl mn op qr",
+                "cita2":"Abcde fghi jkl mn op qr"
+            },
+            "libertad":{
+                "imgObjeto": "link",
+                "videoObjeto":"link",
+                "cita1":"Abcde fghi jkl mn op qr",
+                "cita2":"Abcde fghi jkl mn op qr"
+            }
         }
 }
