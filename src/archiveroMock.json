@@ -4,7 +4,8 @@
         "ubicacion": {
                 "Region": "IV",
                 "Comuna": "Illapel, provincia ",
-                "Provincia": "del Choapa" 
+                "Territorio": "Provincia del Choapa",
+                "Pais":"Chile"
             },
         "id": 0,
         "mainImg": "https://www.thetrevorproject.org/wp-content/uploads/2021/11/TTP_YouthPortrait_YellowBackdrop_Elijah.jpg",
@@ -51,7 +52,8 @@
     "ubicacion": {
         "Region": "V",
         "Comuna": "Quillota",
-        "Provincia": "" 
+        "Territorio": "",
+        "Pais":"Chile" 
     },
         "id": 1,
         "mainImg": "https://www.thetrevorproject.org/wp-content/uploads/2021/11/TTP_YouthPortrait_YellowBackdrop_Elijah.jpg",
